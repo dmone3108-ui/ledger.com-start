@@ -1,4 +1,4 @@
-# Ledger Wallet Setup – Informational Resources
+# Ledger.com/start Ledger Wallet Setup – Informational Resources
 
 This repository contains general information and best practices related to
 Ledger hardware wallet setup and basic security awareness.
